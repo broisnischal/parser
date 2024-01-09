@@ -1,0 +1,14 @@
+.
+├── books.json
+├── crashes.csv
+├── package.json
+├── package-lock.json
+├── pbcopy
+├── src
+│   ├── csvparser.ts
+│   ├── index.ts
+│   ├── jsonparser.ts
+│   └── parser.ts
+└── tsconfig.json
+
+2 directories, 10 files
